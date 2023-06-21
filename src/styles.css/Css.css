@@ -1,0 +1,237 @@
+/* Secondpage */
+.second {
+    height: 100vh;
+    max-width: 100%;
+    background-color: rgb(244, 238, 238);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.aaz {
+    height: 50px;
+    width: 250px;
+    background-color: #90d6f5;
+    margin-bottom: 10px;
+
+}
+
+.ccz {
+    height: 50px;
+    width: 250px;
+    background-color: #33ccc5;
+    margin-bottom: 10px;
+}
+
+
+
+/* Thridpage */
+
+.one {
+    height: 40px;
+    width: 200px;
+    background-color: rgb(235, 65, 125);
+    margin-bottom: 10px;
+
+}
+
+.two {
+    height: 40px;
+    width: 200px;
+    background-color: rgb(235, 65, 125);
+    margin-bottom: 10px;
+}
+
+.three {
+    height: 40px;
+    width: 200px;
+    background-color: rgb(235, 65, 125);
+    margin-bottom: 10px;
+}
+
+.four {
+    height: 40px;
+    width: 200px;
+    background-color: rgb(235, 65, 125);
+    margin-bottom: 10px;
+}
+
+.five {
+    height: 40px;
+    width: 100px;
+    background-color: rgb(232, 238, 239);
+    margin-bottom: 10px;
+}
+
+.thrid {
+    height: 100vh;
+    max-width: 100%;
+    background-color: rgb(232, 221, 221);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+/* Loginpage1 */
+.form {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+
+    max-width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-color: #f7f7f7;
+}
+
+input[type="text"],
+input[type="password"] {
+    height: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+input[type="submit"] {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    background: #01d28e;
+    border: 1px solid #01d28e;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+input[type="submit"]:hover {
+    background: #6cf0c2;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.login-form {
+    height: 100%;
+    max-width: 600px;
+    background-color: white;
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.list-container {
+    display: flex;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
+
+.title {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px;
+}
+
+/* Forthpage */
+
+* {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.forth {
+    height: 100px;
+    background-color: rgb(163, 160, 160);
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container {
+
+    height: 100px;
+    background-color: rgb(183 183 183);
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.button {
+    margin: 10px;
+}
+
+.btn-danger {
+    background-color: rgb(174, 182, 67);
+}
+
+.btn-danger:hover {
+    background-color: rgb(58, 165, 42);
+}
+
+/* mainpage */
+.bg {
+    background-size: cover;
+    height: 600px;
+    max-width: 100%;
+}
+
+.bg3 {
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit
+}
+
+
+
+    
+.bg2 {
+    height: 100vh;
+    max-width: 100%;
+    display: flex ;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+
+/* fifthpage */
+
+.fivth {
+    height: 72px;
+    background-color: rgb(249, 65, 65);
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container5 {
+    height: 350px;
+    background-color: rgb(183 183 183);
+    padding: 20px;
+}
+
+.button5 {
+    margin: 10px;
+}
+
+.btn-danger5 {
+    background-color: rgb(192, 231, 54);
+}
+
+.btn-danger5:hover {
+    background-color: rgb(28, 222, 18);
+}
